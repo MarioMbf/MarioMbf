@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en un Servidor Roleplay Five M [LasDunasRP](https://discord.gg/vQ79z7F5gD)
 
-- 🌱 actualmente estoy aprendiendo **Lua**
+- 🌱 actualmente estoy aprendiendo **JavaScript**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://zmario.es/](https://zmario.es/)
 
